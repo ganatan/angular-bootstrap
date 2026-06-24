@@ -1,4 +1,4 @@
-# Angular 20 & React 18 Examples Bootstrap
+# Angular 22 Bootstrap
 
 <table>
 <tr>

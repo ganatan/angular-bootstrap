@@ -93,9 +93,9 @@ Here is a step by step Tutorial :  https://www.ganatan.com/en/tutorials/getting-
 * Author  : danny
 
 ## [English Tutorials](#english-tutorials)
-- Installation - https://www.ganatan.com/tutorials/lazy-loading-with-angular
+- Installation - https://www.ganatan.com/tutorials/bootstrap-with-angular
 - step-by-step Tutorials - https://www.ganatan.com/tutorials/en
 
 ## [Tutoriels en français](#french-tutorials)
-- Installation - https://www.ganatan.com/tutorials/lazy-loading-avec-angular
+- Installation - https://www.ganatan.com/tutorials/bootstrap-avec-angular
 - Tutoriels Etape par étape - https://www.ganatan.com/tutorials
